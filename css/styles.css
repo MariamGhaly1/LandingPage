@@ -246,8 +246,6 @@ button:hover {
     box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1de9b6;
 }
 
-active navbar link
-
 .navbar__menu.active-link{
     background: #333;
     color: #fff;
